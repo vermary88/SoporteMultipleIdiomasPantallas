@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoporteMultipleIdiomasPanyallas</string>
+    <string name ="txtBienvenida">Bienvenido</string>
+    <string name ="btnEntrar">Entrar</string>
+</resources>
